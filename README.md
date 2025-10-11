@@ -23,7 +23,7 @@
 
 ###
 
-<h6 align="left">A passionate fullstack mobile and web apps developer from Ethiopia<br>- 🔭 I’m currently working on Peronal projects<br>- 💬 Ask me about all dev journeys</h6>
+<p align="left">A passionate fullstack mobile and web apps developer from Ethiopia<br>- 🔭 I’m currently working on Peronal projects<br>- 💬 Ask me about all dev journeys</p>
 
 ###
 
